@@ -22,9 +22,8 @@ from selenium.webdriver.common.keys import Keys
 CHROMEDRIVER_PATH = './chromedriver'
 HAC_IMPEX_IMPORT_URL = 'https://localhost:9002/console/impex/import'
 HAC_LOGIN_USERNAME = 'admin'
-HAC_LOGIN_PASSWORD = 'nimda'
+HAC_LOGIN_PASSWORD = 'bdb111'
 IMPORTING_IMPEX_DIRECTORY = r'C:\CCv2\galaxy_ccv2\hybris\bin\custom\bdb\bdbinitialdata\resources\bdbinitialdata'
-IMPORTING_IMPEX_DIRECTORY = r'C:\CCv2\embecta_ccv2\hybris\bin\custom\bdinitialdata\resources\bdinitialdata\import\coredata'
 
 ENABLE_LOGGING = 'enable-logging'
 EXCLUDE_SWITCHES = 'excludeSwitches'
