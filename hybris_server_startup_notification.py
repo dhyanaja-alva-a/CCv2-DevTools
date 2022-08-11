@@ -41,7 +41,6 @@ def get_console_log_file_content(console_log_file_name):
             
 def show_windows_notification():
     toaster = ToastNotifier()
-
     toaster.show_toast(HYBRIS_SERVER_STARTUP_NOTIFICATION_MESSAGE, HYBRIS_SERVER_STARTUP_NOTIFICATION_SUB_MESSAGE)
    
 def main():
